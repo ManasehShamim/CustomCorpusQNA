@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+custom_corpus_qna.egg-info/PKG-INFO
+custom_corpus_qna.egg-info/SOURCES.txt
+custom_corpus_qna.egg-info/dependency_links.txt
+custom_corpus_qna.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
+src/prompt.py

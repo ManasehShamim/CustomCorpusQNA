@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: custom_corpus_qna
+Version: 0.1.0
+Author: Manaseh Shamim
+Author-email: manasehshamim@gmail.com
+License-File: LICENSE
+Dynamic: author
+Dynamic: author-email
+Dynamic: license-file
